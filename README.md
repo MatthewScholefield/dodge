@@ -1,5 +1,7 @@
 # About
 
+![Icon](https://github.com/Wolfgange3311999/Dodge/blob/master/gdx-game-android/res/mipmap-xxxhdpi/ic_launcher.png?raw=true)
+
 Dodge is a minimalistic 2D side scroller for android in which the player must avoid incoming obstacles.
 
 # Setting up environment
